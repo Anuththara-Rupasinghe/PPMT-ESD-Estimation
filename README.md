@@ -1,5 +1,5 @@
 # PPMT-ESD Estimation
-## Multitaper Analysis of Evolutionary Spectra from Multivariate Spiking Observations
+## Multitaper Analysis of Evolutionary Spectra from Multivariate Spiking Observations MATLAB Codes
 
 Description: This repository contains the MATLAB codes that reproduces the results in Section V.A of the paper "Multitaper Analysis of Evolutionary Spectra from Multivariate Spiking Observations".
 
